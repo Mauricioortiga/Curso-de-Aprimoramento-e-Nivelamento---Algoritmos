@@ -7,7 +7,7 @@ Este repositório é dedicado ao curso de aprimoramento e nivelamento de algorit
 
 **Objetivo:**
 
-Clareza em resolução de problemas a serem resolvidos
+Clareza na definição e resolução de problemas
 
 Estruturar a lógica de forma coerente, independentemente da linguagem de programação escolhida
 
