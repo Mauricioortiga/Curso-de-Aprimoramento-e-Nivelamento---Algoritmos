@@ -18,3 +18,4 @@ Passo 15 - Guardar a escova de dente
 Passo 16 - Pegar a toalha de rosto
 Passo 17 - Enxugar o Rosto
 Passo 18 - Pendurar a toalha de rosto
+
