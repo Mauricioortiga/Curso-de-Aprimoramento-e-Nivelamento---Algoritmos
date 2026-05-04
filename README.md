@@ -1,6 +1,6 @@
-Curso: Aprimoramento e Nivelamento - Algoritmos
+**Curso:** Aprimoramento e Nivelamento - Algoritmos
 
-Professora: Kadidja Valeria Reginaldo de Oliveira
+**Professora:** Kadidja Valeria Reginaldo de Oliveira
 
 Este repositório é dedicado ao curso de aprimoramento e nivelamento de algoritmos
 
