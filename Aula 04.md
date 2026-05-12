@@ -1,2 +1,12 @@
 <img width="1059" height="578" alt="image" src="https://github.com/user-attachments/assets/14b47b3e-398c-4a0f-8edf-3aba5d214709" />
 
+media1 = float (input ("Digite a sua primeira nota"))
+media2 = float (input ("Digite a sua segunda nota"))
+media3 = float (input ("Digite a sua terceira nota"))
+
+mediageral = (media1 + media2 + media3)/3
+
+if mediageral >= 7.0:
+  print ("Aprovado")
+elif mediageral < 7.0:
+  print ("Reprovado")
