@@ -12,6 +12,6 @@ if mediageral >= 7.0:
 
   print ("Aprovado")
   
-elif mediageral < 7.0:
+else:
 
   print ("Reprovado")
