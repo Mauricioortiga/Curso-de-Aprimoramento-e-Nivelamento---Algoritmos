@@ -15,3 +15,7 @@ if mediageral >= 7.0:
 else:
 
   print ("Reprovado")
+
+---
+
+<img width="905" height="486" alt="image" src="https://github.com/user-attachments/assets/345db6ef-a32e-417a-818d-c4d49817e031" />
