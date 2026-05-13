@@ -10,18 +10,33 @@ var
 inicio
 
 escreva ("Digite o título do primeiro livro: ")
+
 leia (titulo1)
+
 escreva ("Digite o título do segundo livro: ")
+
 leia (titulo2)
+
 escreva ("Digite o ano de publicação do primeiro livro: ")
+
 leia (anopublicacao1)
+
 escreva ("Digite o ano de publicação do segundo livro: ")
+
 leia (anopublicacao2)
+
 escreva ("Digite o nome do autor do primeiro livro: ")
+
 leia (autor1)
+
 escreva ("Digite o nome do autor do segundo livro: ")
+
 leia (autor2)
+
 disponivel <- verdadeiro
+
 escreva ("Ficha do primeiro livro: ", titulo1, "-", autor1, "-", anopublicacao1, )
+
 escreva ("Fica do segundo livro: ", titulo2, "-", autor2, "-", anopublicacao2)
+
 fimalgoritmo
