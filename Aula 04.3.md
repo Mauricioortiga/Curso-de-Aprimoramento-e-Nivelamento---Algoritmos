@@ -1,4 +1,5 @@
-<img width="621" height="294" alt="image" src="https://github.com/user-attachments/assets/a0a65459-3cfe-4339-87ac-6788a8f25f15" />
+<img width="214" height="201" alt="image" src="https://github.com/user-attachments/assets/f8525f11-6f30-4fab-aaba-479605ff8262" />
+
 
 Numero = int (input ("Digite o seu número para comparação: "))
 
@@ -10,6 +11,8 @@ else:
     print ("É impar!")
     
 ---
+<img width="213" height="200" alt="image" src="https://github.com/user-attachments/assets/e8705413-b3ef-49a4-aa90-e4ae78ae3468" />
+
 
 idade = int (input("Digite sua idade: "))
 
